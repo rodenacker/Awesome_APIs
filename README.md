@@ -144,6 +144,7 @@ English | [中文](README-zh.md)
 + [Coding](https://open.coding.net/) - Access to https://coding.net/ .
 + [Dataflow kit](https://github.com/slotix/dataflowkit) - Dataflow kit is a Web Scraping framework for Gophers. It helps to extract data from web pages, following the specified CSS Selectors.
 + [diycode](https://www.diycode.cc/api) - Access to https://www.diycode.cc/ .
++ [Form2Channel](https://form2channel.com) - Free service to receive html form submissions directly to Google Sheets, Email, Slack, Telegram or Http. No coding necessary.
 + [gank.io](http://gank.io/api) - Access to API of http://gank.io/ .(**Missing English Docs**)
 + [GitHub](https://developer.github.com/v3/) - The world's leading software development platform.
 + [Gitter](https://developer.gitter.im/docs/welcome) - Chat tools for GitHub.
@@ -162,6 +163,7 @@ English | [中文](README-zh.md)
 + [StackExchange](https://api.stackexchange.com/docs) Access to Stack Exchange API.
 + [SVN](https://subversion.apache.org/docs/api/1.8/) - This documentation covers the public APIs provided by the Subversion libraries. It is intended mainly for programmers, both those working on Subversion itself, as well as developers of 3rd-party applications intending to use these APIs.
 + [TravisCI](https://docs.travis-ci.com/api/) - This is the API used by the official Travis CI web interface, so everything the web ui is able to do can also be accomplished via the API.
++ [UnixTime](http://unixtime.co.za) - Free API to convert Unixtime to DateTime and vice versa. 
 + [upyun](http://docs.upyun.com/api/developer_guide/) - Access to API of https://www.upyun.com/ .(**Missing English Docs**)
 + [V2EX](https://www.v2ex.com/p/7v9TEc53) - Access to API of https://www.v2ex.com/ .(**Missing English Docs**)
 + [W3C](https://github.com/w3c/w3c-api) - In response to demand from developers in W3C community wanting to interact with [W3C](http://www.w3.org/)'s data, the W3C Systems Team has developed a Web API. Through it they are making available data on Specifications, Groups, Organizations and Users.The W3C API is a read-only Web API based on the JSON format exposing only public data.
