@@ -144,6 +144,7 @@ English | [中文](README-zh.md)
 + [Coding](https://open.coding.net/) - Access to https://coding.net/ .
 + [Dataflow kit](https://github.com/slotix/dataflowkit) - Dataflow kit is a Web Scraping framework for Gophers. It helps to extract data from web pages, following the specified CSS Selectors.
 + [diycode](https://www.diycode.cc/api) - Access to https://www.diycode.cc/ .
++ [form2channel](https://form2channel.com) - Send static html form submissions to Google Sheets, Email, Slack or Telegram
 + [gank.io](http://gank.io/api) - Access to API of http://gank.io/ .(**Missing English Docs**)
 + [GitHub](https://developer.github.com/v3/) - The world's leading software development platform.
 + [Gitter](https://developer.gitter.im/docs/welcome) - Chat tools for GitHub.
